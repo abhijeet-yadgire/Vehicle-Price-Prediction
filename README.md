@@ -1,8 +1,5 @@
 # 🚗 Vehicle Price Prediction Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://share.streamlit.io/)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-
 A comprehensive Machine Learning project that predicts vehicle prices using a Linear Regression model. This repository contains the full pipeline, from data exploration and cleaning in Jupyter Notebooks to a production-ready web interface built with Streamlit.
 
 ---
